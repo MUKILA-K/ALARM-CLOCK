@@ -9,12 +9,12 @@ features:
 
 requirements:
 
-python 3.x
-command prompt or terminals to run the script
-python modules
-	1.datetime module
+	python 3.x
+	command prompt or terminals to run the script
+	python modules
+		1.datetime module
  
 how it works:
-Alarm clock runs in the command line it allow the user to input a specific time when the system time matches the current time it triggers an alert
+	Alarm clock runs in the command line it allow the user to input a specific time when the system time matches the current time it triggers an alert
 	
 	
