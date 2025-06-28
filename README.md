@@ -1,7 +1,6 @@
 # ALARM-CLOCK
 features:
-
-1.It is expandable we can keep improving with new features
+	1.It is expandable we can keep improving with new features
 2.multiple alarms
 3.voice control
 4.smartphone sync like-Bluetooth and wifi
