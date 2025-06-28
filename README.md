@@ -8,6 +8,7 @@ features:
 	5.projection display
 
 requirements:
+
 python 3.x
 command prompt or terminals to run the script
 python modules
